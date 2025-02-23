@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+.DS_Store
+junit.xml
+mongodata
+mongodatatest
+.npm
+.eslintcache
+.tsbuildinfo
+logs
